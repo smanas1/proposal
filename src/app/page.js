@@ -23,8 +23,8 @@ export default function Home() {
                 src="/img/curious.svg"
               />
 
-              <div className="text-[#000000] text-2xl">
-                <span className="text-red-600 capitalize text-4xl">
+              <div className="text-[#000000] sm:text-lg md:text-2xl">
+                <span className="text-red-600 sm:text-4xl capitalize md:text-4xl">
                   i love you ❤️
                 </span>
                 <br /> Do You Love Me..?
